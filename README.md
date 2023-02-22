@@ -2,7 +2,7 @@
 
 ### Signals processing final project.
 
-This project solves the task of classifying medical practitioners into groups based on data of their eye tracking of electrocardiograms with differrent heart anomalities.
+This project solves the task of classifying medical practitioners into groups based on data of their eye tracking of electrocardiograms with differrent heart abnormalities or normal sinus rhythm.
 
 Categories for classification:
  - Cardiac Care Unit Nurses;
